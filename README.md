@@ -9,5 +9,5 @@
 * PS2與USB鍵盤均可
 
 ## 須注意
-本repo並無上傳 .bit 及 .xdc檔案
-無該正確FPGA板將無法進行reproduce
+* 本repo並無上傳 .bit 及 .xdc檔案
+* 無該正確FPGA板將無法進行reproduce
